@@ -1,0 +1,1 @@
+"yarn dev inicializacao comando react"
